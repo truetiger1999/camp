@@ -14,7 +14,6 @@
       <blockquote>
         Our work does make sense only if it is a faithful witness of its time.
       </blockquote>
-      <cite>— Jean-Philippe Nuel, Director</cite>
     </section>
     <section class="team-section">
       <img
